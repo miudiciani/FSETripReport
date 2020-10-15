@@ -11,12 +11,6 @@
 
 *This would be an API calls or other connection type to the CRM "Accounts, Account Executives" in the MSFT Dynamics system, probably an Array/DB of objects of each type.*
 
-| Customer  | Account Executive    | Topic                             |
-| :--------- | :------------------  | :----                            |
-|       <form>
-         <select name = "dropdown">
-            <option value = "Computer Architecture" selected>Computer Architecture</option>
-            <option value = "Java">Java</option>
-            <option value = "Discrete Mathematics">Discrete Mathematics</option>
-         </select>
-      </form>           | API AUTOPOPULATE     | <textarea>Enter Topic</textarea> |
+| Customer           | Account Executive    | Topic                            |
+| :---------         | :------------------  | :----                            |
+| API CustomerList   | API AUTOPOPULATE     | <textarea>Enter Topic</textarea> |
