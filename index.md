@@ -1,10 +1,3 @@
-## FSE Trip Report Form Proof of Concept
-
-**Assumptions**
-
-1. This form is a visual concept only, a real implementation of this form would include tethers directly to MSFT Dynamics to the Account Tech Profile  and Account Opportunity solution.
-2. TBD update
-
 ## START FSE Trip Report
 
 **Customer:**
