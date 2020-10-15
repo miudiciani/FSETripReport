@@ -13,14 +13,13 @@
 
 Customers | Account Executives
 ----------| ------------------
-
-    <form method="post">
-    	<select name="Customers">
-    		<option value="Callahan Auto">Callahan Auto</option>
-    		<option value="Prestige Worldwide">Prestige Worldwide</option>
-    		<option value="Cyberdyne">Cyberdyne</option>
-    	</select>
-    </form> | <form method="post">
+<form method="post">
+	<select name="Customers">
+		<option value="Callahan Auto">Callahan Auto</option>
+		<option value="Prestige Worldwide">Prestige Worldwide</option>
+		<option value="Cyberdyne">Cyberdyne</option>
+	</select>
+</form> | <form method="post">
       <select name="Account Executive">
         <option value="Angelina Jolie">Angelina Jolie</option>
         <option value="Lake Bell">Lake Bell</option>
