@@ -15,3 +15,7 @@
     <button name="button">Attendees</button>
     <button name="button">Solutions Practices</button>
   </form>
+
+  | Solution Practices   | Opportunities        | Tech Profile Updates     |
+  | :---------           | :------------------  | :----                    |
+  | <textarea>Enter Topic</textarea>  | <textarea>Enter Topic</textarea>    | <textarea>Enter Topic</textarea> |
