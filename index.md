@@ -12,7 +12,7 @@
 
 
   <form>
-    <button name="button"><a href="solution practices">Summary</a></button>
+    <button name="button"><a href="summary">Summary</a></button>
     <button name="button">Action Items</button>
     <button name="button">Attendees</button>
     <button name="button">Solutions Practices</button>
