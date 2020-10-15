@@ -5,32 +5,17 @@
 1. This form is a visual concept only, a real implementation of this form would include tethers directly to MSFT Dynamics to the Account Tech Profile  and Account Opportunity solution.
 2. TBD update
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/miudiciani/FSETripReport/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## FSE Trip Report
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Customer:**
+<code class="hljs xml"><form method="post">
+	<select name="Customers">
+		<option value="Callahan Auto">Callahan Auto</option>
+		<option value="Prestige Worldwide">Prestige Worldwide</option>
+		<option value="Cyberdyne">Cyberdyne</option>
+	</select>
+</form></code>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
