@@ -1,8 +1,9 @@
-## START FSE Trip Report
+## FSE Trip Report
 
-**Customer:**
+| ASG FSE            |
+| :---------         |                    
+| API SSO AUTOFILL   |
 
-*This would be an API calls or other connection type to the CRM "Accounts, Account Executives" in the MSFT Dynamics system, probably an Array/DB of objects of each type.*
 
 | Customer           | Account Executive    | Topic                            |
 | :---------         | :------------------  | :----                            |
