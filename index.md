@@ -1,5 +1,7 @@
 ## FSE Trip Report
 
+<h2 id="summary">Summary</h2>
+
 | ASG FSE            |
 | :---------         |                    
 | API SSO AUTOFILL   |
@@ -15,6 +17,8 @@
     <button name="button">Attendees</button>
     <button name="button">Solutions Practices</button>
   </form>
+
+<h2 id="solution practices">Solution Practices</h2>
 
   | Solution Practices    | Tech:        | Opportunities | Tech Profile Updates     |
   | :---------            | :----        | :----         |:----                     |
