@@ -13,6 +13,7 @@
 <table>
 <caption>**Customer**</caption>
 Customers | Account Executives
+----------| ------------------
     <form method="post">
     	<select name="Customers">
     		<option value="Callahan Auto">Callahan Auto</option>
