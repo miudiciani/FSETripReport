@@ -42,12 +42,12 @@
 
   <h2 id="bantc">BANTC</h2>
 
-    | BANTC                 | Notes                            |
-    | :---------            | :----                                   
-    | Budget                | <textarea>Enter Topic</textarea> |
-    | Authority             | <textarea>Enter Topic</textarea> |
-    | Need                  | <textarea>Enter Topic</textarea> |
-    | Competition           | <textarea>Enter Topic</textarea> |
+  | BANTC                 | Notes                            |
+  | :---------            | :----                                   
+  | Budget                | <textarea>Enter Topic</textarea> |
+  | Authority             | <textarea>Enter Topic</textarea> |
+  | Need                  | <textarea>Enter Topic</textarea> |
+  | Competition           | <textarea>Enter Topic</textarea> |
 
   <h2 id="additionalMeetingNotes">Additional Meeting Notes</h2>
 
