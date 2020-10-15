@@ -7,7 +7,7 @@
 
 ## FSE Trip Report
 
-```markdown
+
 **Customer:**
 <form method="post">
 	<select name="Customers">
@@ -16,6 +16,7 @@
 		<option value="Cyberdyne">Cyberdyne</option>
 	</select>
 </form></code>
+```markdown
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
