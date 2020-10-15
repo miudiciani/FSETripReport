@@ -16,6 +16,12 @@
     <button name="button">Solutions Practices</button>
   </form>
 
-  | Solution Practices   | Opportunities        | Tech Profile Updates     |
-  | :---------           | :------------------  | :----                    |
-  | <textarea>Enter Topic</textarea>  | <textarea>Enter Topic</textarea>    | <textarea>Enter Topic</textarea> |
+  | Solution Practices    | Tech:        | Opportunities | Tech Profile Updates     |
+  | :---------            | :----        | :----         |:----                     |
+  | End User Workspace:   | Tablet       |               |                          |
+  |                       | Desktop      |               |                          |
+  |                       | Workstation  |               |                          |
+  |                       | Tablet       |               |                          |
+  |                       | VDI Software |               |                          |
+  | Unified Communication | Phone        |               |                          |
+  |                       | Messaging    |               |                          |
