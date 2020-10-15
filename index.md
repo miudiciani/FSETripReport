@@ -10,18 +10,11 @@
 | :---------         | :------------------  | :----                            |
 | API CustomerList   | API AUTOPOPULATE     | <textarea>Enter Topic</textarea> |
 
-
-
-    <button name="button"><a href="summary">Summary</a></button>
-    <button name="button">Action Items</button>
-    <button name="button">Attendees</button>
-    <button name="button">Solutions Practices</button>
-  
 <h2 id="solution practices">Solution Practices</h2>
 
-  | Solution Practices    | Tech:               | Opportunities                    | Tech Profile                     |
+  | Solution Practices    | Tech                | Opportunities                    | Tech Profile                     |
   | :---------            | :----               | :----                            |:----                             |
-  | End User Workspace:   | Tablet              | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  | End User Workspace    | Tablet              | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
   |                       | Desktop             | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
   |                       | Workstation         | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
   |                       | Tablet              | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
@@ -32,3 +25,30 @@
   | Security              | Identity Management | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
   |                       | Email Security      | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
   |                       | Endpoint            | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | Firewall            | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  | Data Center           | Database Software   | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | Primary Storage     | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | Secondary Storage   | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |  
+  |                       | Backup Target       | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | Backup Software     | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | Servers             | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | Hypervisor          | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  | Cloud                 | Public Cloud        | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | SaaS                | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  | Networking            | Core                | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | Edge                | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | SDWAN               | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+  |                       | Wireless            | <textarea>Enter Topic</textarea> | <textarea>Enter Topic</textarea> |
+
+  <h2 id="bantc">BANTC</h2>
+
+    | BANTC                 | Notes                            |
+    | :---------            | :----                                   
+    | Budget                | <textarea>Enter Topic</textarea> |
+    | Authority             | <textarea>Enter Topic</textarea> |
+    | Need                  | <textarea>Enter Topic</textarea> |
+    | Competition           | <textarea>Enter Topic</textarea> |
+
+  <h2 id="additionalMeetingNotes">Additional Meeting Notes</h2>
+
+  <textarea>Enter Topic</textarea>
