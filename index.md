@@ -7,15 +7,16 @@
 
 ## FSE Trip Report
 
-
 **Customer:**
+*This would be an API call to the CRM accounts Array/List/DB etc.*
 <form method="post">
 	<select name="Customers">
 		<option value="Callahan Auto">Callahan Auto</option>
 		<option value="Prestige Worldwide">Prestige Worldwide</option>
 		<option value="Cyberdyne">Cyberdyne</option>
 	</select>
-</form></code>
+</form>
+
 ```markdown
 ```
 
