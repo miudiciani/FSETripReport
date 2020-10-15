@@ -9,7 +9,7 @@
 
 ```markdown
 **Customer:**
-<code class="hljs xml"><form method="post">
+<form method="post">
 	<select name="Customers">
 		<option value="Callahan Auto">Callahan Auto</option>
 		<option value="Prestige Worldwide">Prestige Worldwide</option>
