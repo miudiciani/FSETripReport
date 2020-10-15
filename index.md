@@ -11,13 +11,12 @@
 | API CustomerList   | API AUTOPOPULATE     | <textarea>Enter Topic</textarea> |
 
 
-  <form>
+
     <button name="button"><a href="summary">Summary</a></button>
     <button name="button">Action Items</button>
     <button name="button">Attendees</button>
     <button name="button">Solutions Practices</button>
-  </form>
-
+  
 <h2 id="solution practices">Solution Practices</h2>
 
   | Solution Practices    | Tech:               | Opportunities                    | Tech Profile                     |
