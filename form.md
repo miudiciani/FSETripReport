@@ -1,1 +1,0 @@
-##FSE Trip Report
